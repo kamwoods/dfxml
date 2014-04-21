@@ -1,0 +1,30 @@
+__all__ = [
+'allocation_counter.py',         'icarvingtruth.py',
+'break_out_diffs_by_anno.py',    'idifference2.py',
+'cat_fileobjects.py',            'idifference.py',
+'cat_partitions.py',             'iexport.py',
+'corpus_sync.py',                'iextract.py',
+'dedup.py',                      'igrep.py',
+'deidentify_xml.py',             'ihistogram.py',
+'demo_mac_timeline_iter.py',     'imap.py',
+'demo_mac_timeline_objects.py',  'imicrosoft_redact.py',
+'demo_mac_timeline.py',          '__init__.py',
+'demo_piecewise.py',             'iredact-config.txt',
+'demo_plot_times.py',            'iredact.py',
+'demo_readtimes.py',             'ireport.py',
+'demo_registry_timeline.py',     'iverify.py',
+'demo_sizes.py',                 'make_differential_dfxml.py',
+'dfxinfo.py',                    'nsrl_rds.py',
+'dfxml_html.py',                 'Objects.py',
+'dfxml.py',                      'rdifference.py',
+'dfxml_tool.py',                 'report_silent_changes.py',
+'exp_slack.py',                  'summarize_differential_dfxml.py',
+'Extractor.py',                  'tcpdiff.py',
+'filesdb.py',                    'test_idifference.py',
+'fiwalk.py',                     'validate_dfxml.py',
+'hash_sectors.py',               'xdiff.py',
+'histogram.py',                  'xmirror.py',
+'iblkfind.py',                   'xml2body.py'
+]
+
+
